@@ -65,28 +65,28 @@ you can always contact me at: <br>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/AhmedSaied94/pinterest-front" title="Pinterest Clone Fronted Work"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=pinterest-front&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/AhmedSaied94/pinterest-back" title="Pinterest Clone Server Work"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=pinterest-back&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/AhmedSaied94/pinterest-front" title="Pinterest Clone Fronted Work"><img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=pinterest-front&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/AhmedSaied94/pinterest-back" title="Pinterest Clone Server Work"><img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=pinterest-back&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/AhmedSaied94/django-DTL" title="Django movies template"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=django-DTL&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/AhmedSaied94/django-rest-api" title="Django movies api"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=django-rest-api&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/AhmedSaied94/django-DTL" title="Django movies template"><img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=django-DTL&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/AhmedSaied94/django-rest-api" title="Django movies api"><img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=django-rest-api&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-     <a align="left" href="https://github.com/AhmedSaied94/node-express-passport-auth" title="Node+Express Passport Auth"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=node-express-passport-auth&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a align="right" href="https://github.com/AhmedSaied94/MCUmovies" title="MCU Movies"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=MCUmovies&theme=react&border_color=61dafb&border_radius=10"></a>
+     <a align="left" href="https://github.com/AhmedSaied94/node-express-passport-auth" title="Node+Express Passport Auth"><img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=node-express-passport-auth&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="right" href="https://github.com/AhmedSaied94/MCUmovies" title="MCU Movies"><img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=MCUmovies&theme=react&border_color=61dafb&border_radius=10"></a>
 
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-     <a align="left" href="https://github.com/AhmedSaied94/landing-page" title="Landing Page"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=landing-page&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/AhmedSaied/simplereactproj " title="Simple Project by React"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=simplereactproj&theme=react&border_color=61dafb&border_radius=10"></a>
+     <a align="left" href="https://github.com/AhmedSaied94/landing-page" title="Landing Page"><img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=landing-page&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/AhmedSaied/simplereactproj " title="Simple Project by React"><img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=simplereactproj&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/AhmedSaied94/bootstrapDesign" title="Bootstrap Design"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=bootstrapDesign&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/AhmedSaied94/bootstrapDesign" title="Bootstrap Design"><img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=bootstrapDesign&theme=react&border_color=61dafb&border_radius=10"></a>
 
 </div>
 <br><br><br><br><br><br>
