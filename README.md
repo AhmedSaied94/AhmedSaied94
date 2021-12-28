@@ -76,13 +76,13 @@ you can always contact me at: <br>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
      <a align="left" href="https://github.com/AhmedSaied94/node-express-passport-auth" title="Node+Express Passport Auth"><img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=node-express-passport-auth&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a align="right" href="https://github.com/AhmedSaied94/MCUmovies" title="MCU Movies"><img align="right" height="130"  src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=MCUmovies&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="right" href="https://github.com/AhmedSaied94/MCUmovies" title="MCU Movies"><img align="right" height="130" width="419"   src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=MCUmovies&theme=react&border_color=61dafb&border_radius=10"></a>
 
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
      <a align="left" href="https://github.com/AhmedSaied94/landing-page" title="Landing Page"><img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=landing-page&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/AhmedSaied/simplereactproj " title="Simple Project by React"><img align="right" height="130"  src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=simplereactproj&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/AhmedSaied/simplereactproj " title="Simple Project by React"><img align="right" height="130" width="419"   src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSaied94&repo=simplereactproj&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
