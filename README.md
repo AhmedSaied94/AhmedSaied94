@@ -5,9 +5,8 @@
 </h1>
 
 
-- 🔭 I’m currently working on [Pinterest Clone](http://3.132.156.164/)
-- 🌱 I’m currently learning Django , DRF, ReactJS
-- 👯 I’m looking for help to finding a full-time job
+- 🔭 I’m currently working as software developer at (Div-systems and Inovola)
+
 <!--
 **AhmedSaied94/AhmedSaied94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
